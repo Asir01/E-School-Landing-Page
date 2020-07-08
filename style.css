@@ -1,0 +1,121 @@
+.header-section{
+    background-color:#f0fff0;
+    
+}
+.about-school img {
+    height: 85px;
+    margin-bottom: 30px;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+.about-school {
+    margin: 50px 0;
+}
+.box-sizeing {
+    background-color: #F0FFF0;
+    text-align: center;
+    border-radius: 10px;
+    padding: 50px 30px;
+    transition: .5s;
+}
+.card-deck{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.col-md-3:hover{
+    margin-bottom: 50px;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 18px;
+    box-shadow: -webkit-box-shadow: 0px 0px 25px -18px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 25px -18px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 25px -18px rgba(0, 0, 0, 0.75);
+}
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+.courses .btn-success {
+    padding: 8px 28px;
+    margin-bottom: 36px;
+}
+.courses h2 {
+    text-align: center;
+    margin: 60px 0;
+}
+.courses .card-body a {
+    color: #000;
+    text-decoration: none;
+}
+.card {
+    margin-bottom: 50px;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 18px;
+    box-shadow: -webkit-box-shadow: 0px 0px 25px -18px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 25px -18px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 25px -18px rgba(0, 0, 0, 0.75);
+}
+.courses .icon {
+    height: 20px;
+    margin-right: 5px;
+}
+.courses .peaple-icon {
+    margin-left: 30px;
+}
+
+
+.testimonial-content {
+    padding: 0 12%;
+    margin-bottom: 70px;
+}
+.testimonial-m{
+    text-align: center;
+}
+.testimonial-content img {
+    height: 80px;
+    margin-right: 30px;
+}
+.copy-right{
+    text-align: center;
+}
+
+
+
+footer {
+    background-color: #282531;
+    padding: 50px 0 20px 0;
+}
+footer a {
+    color: #fff;
+    font-weight: 200;
+    font-size: 14px;
+}
+footer a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+.footer-item-heading {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+}
+.footer-quets {
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+}
+footer .copy-right {
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 14px;
+}
